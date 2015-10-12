@@ -26,6 +26,6 @@ li2 = li[:] # use slicing
 li[1] = 4
 print(li, li2) # [1, 4, 3] [1, 2, 3]
 
-from copy import copy # load module
+from copy import copy # load moduled
 li3 = copy(li2)
 print(li3 is li2) # False
