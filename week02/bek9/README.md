@@ -3,12 +3,10 @@
 ## Goals
 
  - Control Statements
+  - if
+  - while
+  - for
  - I/O
- - Class
- - Module
- - Package
- - Exception
- - Internal Functions
- - External Functions
-
- 
+  - function
+  - io
+  - file
