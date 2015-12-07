@@ -3,6 +3,22 @@
 	{
 		"selected_items":
 		[
+			[
+				"echo",
+				"echo_test"
+			],
+			[
+				"Tal",
+				"Talker"
+			],
+			[
+				"se",
+				"setname"
+			],
+			[
+				"read",
+				"readline"
+			]
 		]
 	},
 	"buffers":
@@ -15,10 +31,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 167.0,
-		"last_filter": "java",
+		"height": 47.0,
+		"last_filter": "pytho",
 		"selected_items":
 		[
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
 			[
 				"java",
 				"Set Syntax: JavaScript"
@@ -54,11 +74,55 @@
 	"expanded_folders":
 	[
 		"/Users/bek9/dev/study/python-study-2015",
-		"/Users/bek9/dev/study/python-study-2015/week01",
-		"/Users/bek9/dev/study/python-study-2015/week01/bek9"
+		"/Users/bek9/dev/study/python-study-2015/week02",
+		"/Users/bek9/dev/study/python-study-2015/week02/bek9",
+		"/Users/bek9/dev/study/python-study-2015/week03",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/pkg",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/pkg/graphic",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/pkg/sound",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/pkg/sound/__pycache__"
 	],
 	"file_history":
 	[
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/06-lib.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/02-module.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/mod1.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/arg.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/05-builtin.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/README.md",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/04-except.py",
+		"/Users/bek9/dev/study/python-study-2015/week02/bek9/06-file.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/03-package/graphic/render.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/03-package/__init__.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/03-package/sound/echo.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/03-package.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/pkg/graphic/render.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/pkg/sound/__init__.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/mod2.py",
+		"/Users/bek9/dev/study/python-study-2015/week03/bek9/01-class.py",
+		"/Users/bek9/dev/study/python-study-2015/week02/bek9/README.md",
+		"/Users/bek9/dev/study/python-study-2015/week02/bek9/08-sys2.py",
+		"/Users/bek9/dev/study/python-study-2015/week02/bek9/07-sys1.py",
+		"/Users/bek9/dev/study/python-study-2015/week02/bek9/05-io.py",
+		"/Users/bek9/dev/study/python-study-2015/week02/bek9/04-function.py",
+		"/Users/bek9/dev/study/python-study-2015/week02/bek9/03-for.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/10-sets.py",
+		"/Users/bek9/dev/study/python-study-2015/week02/bek9/02-while.py",
+		"/Users/bek9/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bek9/dev/study/python-study-2015/week02/bek9/01-if.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/12-var.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/11-bool.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/09-dictionary.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/08-tuple.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/07-list.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/06-string.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/03-indentation.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/05-number.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/04-function.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/01-hello.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/02-calc.py",
+		"/Users/bek9/dev/study/python-study-2015/week01/bek9/README.md",
 		"/Users/bek9/dev/study/PythonStudy2015/week01/study01.py",
 		"/Volumes/NO NAME/P-Series/P14197259C62F/properties.txt",
 		"/Volumes/NO NAME/P-Series/P14197259C62F/p0/0000000046.005",
@@ -66,7 +130,7 @@
 	],
 	"find":
 	{
-		"height": 49.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -80,13 +144,30 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"= ",
+			"\\w+ : ",
+			"?? : ",
+			"=",
+			"=\n",
+			"puts ",
+			"push",
+			"literal",
+			"str",
+			"correct"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"",
+			":",
+			"print(",
+			"append",
+			"arr",
+			"string",
+			"python"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -108,7 +189,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 49.0
 	},
 	"layout":
 	{
@@ -141,7 +222,7 @@
 	"project": "python-study-2015.sublime-project",
 	"replace":
 	{
-		"height": 92.0
+		"height": 78.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -150,6 +231,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"week01/bek9/03-indentation.py"
+			]
 		],
 		"width": 0.0
 	},
@@ -179,7 +264,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 179.0,
+	"side_bar_width": 194.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
